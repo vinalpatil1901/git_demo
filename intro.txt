@@ -1,0 +1,4 @@
+this is my first git session 
+we are learning version controlling 
+we are using git command line tool.
+
