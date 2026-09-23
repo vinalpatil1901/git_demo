@@ -1,0 +1,2 @@
+/this is a comment
+// the login page is for the students 
